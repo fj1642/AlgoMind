@@ -9,12 +9,6 @@ It combines:
 * 🧠 Rule-based + Retrieval-Augmented (RAG-inspired) Selection
 * 🔍 Support for multiple problem classes (sorting, graphs, search, etc.)
 
----
-
-## 🎯 Motivation
-
-Choosing the right algorithm is one of the most critical skills in computer science.
-
 AlgoMind aims to:
 
 * Automate algorithm selection
@@ -22,9 +16,7 @@ AlgoMind aims to:
 * Help students understand *why* an algorithm is chosen
 * Simulate real-world decision-making systems
 
----
-
-## ✨ Features
+ ✨ Features
 
 * ✅ Scenario-based input (problem description + constraints)
 * ✅ Intelligent algorithm selector
@@ -33,9 +25,7 @@ AlgoMind aims to:
 * ✅ Modular and extensible architecture
 * ✅ Beginner-friendly implementation (clean Python)
 
----
-
-## 🧠 How It Works
+🧠 How It Works
 
 1. User provides:
 
@@ -80,30 +70,7 @@ algomind/
 │     ├── graph.py
 │── utils.py             # Helper functions
 │── README.md
-```
-
-*(In Google Colab, all modules can be merged into cells.)*
-
----
-
-## ⚙️ Installation
-
-Clone the repo:
-
-```bash
-git clone https://github.com/yourusername/algomind.git
-cd algomind
-```
-
-Install dependencies:
-
-```bash
-pip install numpy
-```
-
----
-
-## ▶️ Usage
+▶️ Usage
 
 ### Basic Example
 
@@ -205,10 +172,3 @@ CS-AI Student | Aspiring GSoC Contributor
 
 AlgoMind is not just a project—it’s a step toward building **intelligent systems that think like engineers**.
 
----
-
-If you want, next I can help you:
-
-* 🔥 Write a **GSoC proposal based on this**
-* 🔥 Add **ML model to make it next-level**
-* 🔥 Turn this into a **web app (resume killer project)**
